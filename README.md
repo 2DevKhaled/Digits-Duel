@@ -5,3 +5,6 @@
 ##### If they take a chance and roll a 1, they will lose the points they have accumulated in the "current" box 😝.
 
 ##### 👑 The winner is the first player to reach 100 points.
+
+
+###### Practical application of JavaScript course [[Jonas schmedtmann]]
