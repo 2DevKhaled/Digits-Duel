@@ -1,4 +1,4 @@
-#[![Big_Trophy](https://cdn3.emoji.gg/emojis/8851-big-trophy.png)](https://emoji.gg/emoji/8851-big-trophy) Digits-Duel
+[![Big_Trophy](https://cdn3.emoji.gg/emojis/8851-big-trophy.png)](https://emoji.gg/emoji/8851-big-trophy)# Digits-Duel
 #### The game is as follows: the first player presses the "roll dice" button and a number appears. Then, they choose either to keep it immediately or take a chance and press the "roll" button again, or hold onto it using the "hold" button.
 
 
