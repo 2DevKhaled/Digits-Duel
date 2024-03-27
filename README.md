@@ -1,4 +1,4 @@
-# Digits-Duel
+#🎲 Digits-Duel
 #### 🎲 The game is as follows: the first player presses the "roll dice" button and a number appears. Then, they choose either to keep it immediately or take a chance and press the "roll" button again, or hold onto it using the "hold" button.
 
 
